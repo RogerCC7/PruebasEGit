@@ -7,7 +7,7 @@ public class PruebasEGit {
 
 		System.out.println("pruebas EGit");
 		System.out.println("Primer cambio");
-
+		System.out.println("Cambios desde rama1");
 	}
 
 }
